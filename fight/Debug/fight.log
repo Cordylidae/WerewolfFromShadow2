@@ -1,0 +1,143 @@
+﻿Build started 20.01.2020 18:22:17.
+     1>Project "C:\Users\User\Desktop\Проекты для gitHub\fight\fight\fight.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\fight.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Users\User\Desktop\Проекты для gitHub\fight\\SFML-2.3.2\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt fight.cpp
+         fight.cpp
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(79): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(83): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(87): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(91): warning C4244: 'return' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(96): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(100): warning C4244: 'return' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(105): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(109): warning C4244: 'return' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(113): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(117): warning C4244: 'return' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(166): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(170): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(174): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(178): warning C4244: 'return' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(183): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(187): warning C4244: 'return' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(191): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(195): warning C4244: 'return' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(200): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(204): warning C4244: 'return' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(243): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(298): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(298): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(299): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(299): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(444): warning C4244: 'initializing' : conversion from 'sf::Int64' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(447): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(463): warning C4482: nonstandard extension used: enum 'sf::Mouse::Button' used in qualified name
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(464): warning C4482: nonstandard extension used: enum 'sf::Mouse::Button' used in qualified name
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(465): warning C4482: nonstandard extension used: enum 'sf::Mouse::Button' used in qualified name
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(466): warning C4482: nonstandard extension used: enum 'sf::Mouse::Button' used in qualified name
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(489): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(495): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(495): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(572): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(572): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(606): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(606): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(607): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(607): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(608): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(608): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(609): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(609): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(610): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(610): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(611): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(611): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(612): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(612): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(613): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(613): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(669): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(688): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(688): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(689): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(689): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(690): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(690): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(737): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(773): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(794): warning C4482: nonstandard extension used: enum 'sf::Mouse::Button' used in qualified name
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(819): warning C4482: nonstandard extension used: enum 'sf::Mouse::Button' used in qualified name
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(895): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(895): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(949): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(949): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(950): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(950): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(951): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(951): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(957): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(957): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(977): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(991): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(991): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(1120): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(1120): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(1127): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(1127): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(1134): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(1134): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(1140): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(1140): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(1145): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(1145): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(1147): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(1147): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(1286): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(1286): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(1287): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(1287): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(1288): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(1288): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(1289): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(1289): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(1290): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(1290): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(1291): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(1291): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(1292): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(1292): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(1293): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(1293): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(1294): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(1294): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(1295): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(1295): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(1296): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(1296): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(1297): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(1297): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(1319): warning C4482: nonstandard extension used: enum 'sf::Mouse::Button' used in qualified name
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(1320): warning C4482: nonstandard extension used: enum 'sf::Mouse::Button' used in qualified name
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(1321): warning C4482: nonstandard extension used: enum 'sf::Mouse::Button' used in qualified name
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(1322): warning C4482: nonstandard extension used: enum 'sf::Mouse::Button' used in qualified name
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(1323): warning C4482: nonstandard extension used: enum 'sf::Mouse::Button' used in qualified name
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(1324): warning C4482: nonstandard extension used: enum 'sf::Mouse::Button' used in qualified name
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(1325): warning C4482: nonstandard extension used: enum 'sf::Mouse::Button' used in qualified name
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(1326): warning C4482: nonstandard extension used: enum 'sf::Mouse::Button' used in qualified name
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(262): warning C4101: 'spx' : unreferenced local variable
+     1>c:\users\user\desktop\проекты для github\fight\fight\fight.cpp(262): warning C4101: 'spy' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\User\Desktop\Проекты для gitHub\fight\Debug\fight.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"C:\Users\User\Desktop\Проекты для gitHub\fight\\SFML-2.3.2\lib" SimpleDLL.lib "sfml-graphics-d.lib" "sfml-window-d.lib" "sfml-system-d.lib" "sfml-audio-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\fight.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\User\Desktop\Проекты для gitHub\fight\Debug\fight.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\User\Desktop\Проекты для gitHub\fight\Debug\fight.lib" /MACHINE:X86 Debug\fight.obj
+     1>fight.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+         fight.vcxproj -> C:\Users\User\Desktop\Проекты для gitHub\fight\Debug\fight.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\User\Desktop\Проекты для gitHub\fight\Debug\fight.exe;#1" /manifest Debug\fight.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\fight.unsuccessfulbuild".
+         Touching "Debug\fight.lastbuildstate".
+     1>Done Building Project "C:\Users\User\Desktop\Проекты для gitHub\fight\fight\fight.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.63
